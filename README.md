@@ -11,4 +11,5 @@ ALthough based on a simple arcade game structure in pygame, this program uses ad
 * OOP for lighter management of groups with appropriate method for adding, updating and removing sprites more precisely and avoiding the creation of many instances;
 * Numpy structures and operators for more efficient floating point computing, leading to more accurate position updating and smooth movements;
 * Numba usage to run collisions check and updating methods in parallel.
+
 Have a look at the [source code](code)
